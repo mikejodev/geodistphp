@@ -1,5 +1,6 @@
 # GeoDist PHP #
 >  GeoDistPHP/1.0 MikeJoDev  
+***
 Для того, чтобы начать использовать класс geoDist, импортируйте его в свой код:  
 `require_once 'geodist.php';`  
 И создайте объект:  
